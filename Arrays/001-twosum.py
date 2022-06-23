@@ -10,7 +10,6 @@ def twoSum(nums, target):
 #S:O(1)
 
 #Solution2 hashmap
-#use hash map to instantly check for difference value, map will add index of last occurrence of a num, don’t use same element twice
 def twoSum(nums, target):
     dict = {}
     for i in range(len(nums)):
