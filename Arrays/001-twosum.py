@@ -7,7 +7,7 @@ def twoSum(nums, target):
                   if nums[i] + nums[j] == target:
                         return [i,j]
 #T:O(N^2)
-#S:O(N)
+#S:O(1)
 
 #Solution2 hashmap
 #use hash map to instantly check for difference value, map will add index of last occurrence of a num, don’t use same element twice
