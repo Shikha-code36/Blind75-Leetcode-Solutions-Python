@@ -1,7 +1,7 @@
 # Blind75-Solutions-Python
 Curated List of Blind 75 solutions in Python.
 
-### Topics covered:
+### Solutions:
 
 - [x] [Arrays](Arrays)
     - [x] [Two Sum](Arrays/001-twosum.py)
