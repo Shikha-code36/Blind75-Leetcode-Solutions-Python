@@ -19,9 +19,7 @@ def twoSum(nums, target):
 # T:O(N^2)
 # S:O(1)
 
-# Solution2 hashmap
-
-
+# Solution2 
 def twoSum(nums, target):
     dict = {}
     for i in range(len(nums)):
