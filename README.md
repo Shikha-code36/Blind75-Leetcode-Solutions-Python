@@ -10,3 +10,5 @@ Curated List of Blind 75 solutions in Python.
     - [x] [Product Of Array Except Self](Arrays/238-product-of-array-except-self.py)
     - [x] [Maximum Subarray](Arrays/53-maximum-subarray.py)
     - [x] [Maximum Product Subarray](Arrays/152-Maximum-Product-Subarray.py)
+- [x] [Matrix](Matrix)
+    - [x] [Word Search](Matrix/79-Word-Search.py)
