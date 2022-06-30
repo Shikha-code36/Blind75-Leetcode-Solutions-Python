@@ -1,6 +1,9 @@
 # Blind75-Solutions-Python
 Curated List of Blind 75 solutions in Python.
 
+## Notes
+Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion.site/Blind75-Solutions-8919e9ecec56467a9b3b983498d4a936)
+
 ### Solutions:
 
 - [x] [Arrays](Arrays)
