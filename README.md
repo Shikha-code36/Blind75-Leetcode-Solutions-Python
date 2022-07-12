@@ -17,3 +17,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Word Search](Matrix/79-Word-Search.py)
 - [x] [Dynamic Programming](Dynamic-Programming)
     - [x] [Combination Sum](Dynamic-Programming/39-Combination-Sum.py)
+    - [x] [Climbing Stairs](Dynamic-Programming/70-Climbing-Stairs.py)
+    
